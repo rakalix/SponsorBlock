@@ -4,7 +4,7 @@
         "description": "Name of the extension."
     },
     "Description": {
-        "message": "Pomijaj sponsorów, prośby o subskrypcje i inne fragmenty filmów na YouTube. Zgłaszaj segmenty sponsorów na filmach, które oglądasz, by oszczędzić czas innym.",
+        "message": "Pomijaj sponsorów, prośby o subskrypcje i inne fragmenty filmów na YouTube.",
         "description": "Description of the extension."
     },
     "400": {

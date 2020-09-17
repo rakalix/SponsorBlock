@@ -4,7 +4,7 @@
         "description": "Name of the extension."
     },
     "Description": {
-        "message": "Überspringe Sponsoren, betteln um Abonnenten und mehr in YouTube Videos. Melde Sponsoren in Videos, die du guckst, um anderen Zeit zu sparen.",
+        "message": "Überspringe Sponsoren, betteln um Abonnenten und mehr in YouTube Videos.",
         "description": "Description of the extension."
     },
     "400": {

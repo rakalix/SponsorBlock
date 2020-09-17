@@ -4,7 +4,7 @@
         "description": "Name of the extension."
     },
     "Description": {
-        "message": "Bỏ qua quảng cáo của nhà tài trợ, đoạn nài nỉ đòi đăng ký và nhiều thứ tương tự trong các video trên Youtube. Báo cáo đoạn quảng cáo nhà tài trợ trong những video bạn xem để giúp người khác tiết kiệm thời gian.",
+        "message": "Bỏ qua quảng cáo của nhà tài trợ, đoạn nài nỉ đòi đăng ký và nhiều thứ tương tự trong các video trên Youtube.",
         "description": "Description of the extension."
     },
     "400": {

@@ -4,7 +4,7 @@
         "description": "Name of the extension."
     },
     "Description": {
-        "message": "Treci peste sponsorizări, cereri de abonare și multe altele pe videoclipuri de pe YouTube. Raportează sponsorii pe videoclipurile pe care le urmărești pentru a economisi timp altora.",
+        "message": "Treci peste sponsorizări, cereri de abonare și multe altele pe videoclipuri de pe YouTube.",
         "description": "Description of the extension."
     },
     "400": {

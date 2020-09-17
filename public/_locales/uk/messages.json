@@ -4,7 +4,7 @@
         "description": "Name of the extension."
     },
     "Description": {
-        "message": "Пропускайте спонсорські вставки, прохання підписатися та інше в відео на YouTube. Надсилайте інформацію про спонсорів в відео, щоб зберігати іншим час.",
+        "message": "Пропускайте спонсорські вставки, прохання підписатися та інше в відео на YouTube.",
         "description": "Description of the extension."
     },
     "400": {

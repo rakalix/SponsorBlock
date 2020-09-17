@@ -4,7 +4,7 @@
         "description": "Name of the extension."
     },
     "Description": {
-        "message": "Preskoči sponzore, zamolbe za pretplatu i drugo na YouTube videima. Prijavi sponzore na videima koje gledaš kako bi uštedio drugima vrijeme.",
+        "message": "Preskoči sponzore, zamolbe za pretplatu i drugo na YouTube videima.",
         "description": "Description of the extension."
     },
     "400": {

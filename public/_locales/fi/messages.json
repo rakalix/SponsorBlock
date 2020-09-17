@@ -4,7 +4,7 @@
         "description": "Name of the extension."
     },
     "Description": {
-        "message": "Ohita sponsoroitu mainonta, tilausten kerjääminen ja muuta YouTube-videoissa. Ilmoita katsomasi videoiden sponsorit säästääksesi muilta aikaa.",
+        "message": "Ohita sponsoroitu mainonta, tilausten kerjääminen ja muuta YouTube-videoissa.",
         "description": "Description of the extension."
     },
     "400": {

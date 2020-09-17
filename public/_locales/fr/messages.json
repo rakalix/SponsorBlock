@@ -4,7 +4,7 @@
         "description": "Name of the extension."
     },
     "Description": {
-        "message": "Ignorez les sponsors, les rappels d'interaction et plus encore sur les vidéos YouTube. Signalez les sponsors sur les vidéos que vous regardez pour sauver le temps des autres.",
+        "message": "Ignorez les sponsors, les rappels d'interaction et plus encore sur les vidéos YouTube.",
         "description": "Description of the extension."
     },
     "400": {
