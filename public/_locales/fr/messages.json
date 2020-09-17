@@ -1,0 +1,562 @@
+{
+    "fullName": {
+        "message": "SponsorBlock pour YouTube - Supprime les messages commerciaux et publicités intégrées",
+        "description": "Name of the extension."
+    },
+    "Description": {
+        "message": "Ignorez les sponsors, les rappels d'interaction et plus encore sur les vidéos YouTube.",
+        "description": "Description of the extension."
+    },
+    "400": {
+        "message": "Soumission invalide"
+    },
+    "429": {
+        "message": "Vous cherchez à envoyer beaucoup de segments, y en a-t-il vraiment autant ?"
+    },
+    "409": {
+        "message": "Déja soumis"
+    },
+    "channelWhitelisted": {
+        "message": "Chaîne mise sur liste blanche !"
+    },
+    "Segment": {
+        "message": "segment"
+    },
+    "Segments": {
+        "message": "segments"
+    },
+    "upvoteButtonInfo": {
+        "message": "Voter pour cette entrée"
+    },
+    "reportButtonTitle": {
+        "message": "Signaler"
+    },
+    "reportButtonInfo": {
+        "message": "Signaler que ce segment commercial est incorrect."
+    },
+    "Dismiss": {
+        "message": "Fermer"
+    },
+    "Loading": {
+        "message": "Chargement..."
+    },
+    "Mins": {
+        "message": "Minutes"
+    },
+    "Secs": {
+        "message": "Secondes"
+    },
+    "Hide": {
+        "message": "Ne plus montrer"
+    },
+    "hitGoBack": {
+        "message": "Cliquez sur revenir en arrière pour revenir avant le saut du segment commercial."
+    },
+    "unskip": {
+        "message": "Revenir en arrière"
+    },
+    "reskip": {
+        "message": "Sauter"
+    },
+    "paused": {
+        "message": "En pause"
+    },
+    "manualPaused": {
+        "message": "Timer arrêté"
+    },
+    "confirmMSG": {
+        "message": "Pour modifier ou supprimer des soumissions, cliquez sur le bouton d'info ou ouvrez la fenêtre de l'extension en cliquant sur son icône dans le coin en haut à droite."
+    },
+    "clearThis": {
+        "message": "Êtes-vous certain(e) de vouloir supprimer vos soumissions ?\n\n"
+    },
+    "Unknown": {
+        "message": "Une erreur s'est produite lors de la soumission, veuillez réessayer plus tard."
+    },
+    "sponsorFound": {
+        "message": "Cette vidéo a des segments dans la base de données!"
+    },
+    "sponsor404": {
+        "message": "Aucun segment trouvé"
+    },
+    "sponsorStart": {
+        "message": "Début du segement"
+    },
+    "sponsorEnd": {
+        "message": "Fin du segment"
+    },
+    "noVideoID": {
+        "message": "Ceci n'est pas un onglet YouTube, ou vous avez cliqué trop tôt. \n Si vous êtes sûr(e) que c'est un onglet YouTube, fermez cette fenêtre et réessayez."
+    },
+    "success": {
+        "message": "Succès !"
+    },
+    "voted": {
+        "message": "A voté !"
+    },
+    "serverDown": {
+        "message": "Le serveur ne fonctionne pas. Contactez le développeur."
+    },
+    "connectionError": {
+        "message": "Erreur de connexion. Code d'erreur : "
+    },
+    "leftTimes": {
+        "message": "Vous semblez avoir laissé certains segments non soumis. Retournez à cette page pour les soumettre (ils ne sont pas supprimés)."
+    },
+    "openPopup": {
+        "message": "Ouvrir l'encart SponsorBlock"
+    },
+    "submitCheck": {
+        "message": "Êtes-vous sûr de vouloir soumettre ces segments?"
+    },
+    "whitelistChannel": {
+        "message": "Ajouter la chaîne à la liste blanche"
+    },
+    "removeFromWhitelist": {
+        "message": "Supprimer la chaîne de la liste blanche"
+    },
+    "voteOnTime": {
+        "message": "Voter pour un segment"
+    },
+    "soFarUHSubmited": {
+        "message": "Vous avez soumis jusqu'à présent"
+    },
+    "savedPeopleFrom": {
+        "message": "Vous avez permis aux autres de passer "
+    },
+    "viewLeaderboard": {
+        "message": "Consulter le classement"
+    },
+    "here": {
+        "message": "ici"
+    },
+    "clearTimesButton": {
+        "message": "Supprimer les temps"
+    },
+    "submitTimesButton": {
+        "message": "Soumettre les temps"
+    },
+    "publicStats": {
+        "message": "Votre pseudo est inscrit dans le classement public pour afficher vos contributions. Le consulter"
+    },
+    "setUsername": {
+        "message": "Choisir un pseudonyme"
+    },
+    "discordAdvert": {
+        "message": "Rejoignez le serveur Discord officiel pour toutes suggestions ou remarques!"
+    },
+    "hideThis": {
+        "message": "Cacher"
+    },
+    "Options": {
+        "message": "Paramètres"
+    },
+    "showButtons": {
+        "message": "Montrer les boutons sur le lecteur YouTube"
+    },
+    "hideButtons": {
+        "message": "Cacher les boutons sur le lecteur YouTube"
+    },
+    "hideButtonsDescription": {
+        "message": "Cela permet de cacher du lecteur YouTube les boutons utilisés pour soumettre des segments commerciaux. Je peux \ncomprendre que certaines personnes les trouvent perturbants. Au lieu d'utiliser ces boutons, cette fenêtre peut être utilisée \npour soumettre des segments commerciaux. Pour cacher la notification, utilisez le bouton \"Ne plus montrer\" sur la notification. Vous pouvez toujours réactiver ces paramètres plus tard."
+    },
+    "showInfoButton": {
+        "message": "Montrer le bouton Info sur le lecteur YouTube"
+    },
+    "hideInfoButton": {
+        "message": "Cacher le bouton Info sur le lecteur YouTube"
+    },
+    "whatInfoButton": {
+        "message": "Il s'agit du bouton qui ouvre l'encart sur la page YouTube."
+    },
+    "hideDeleteButton": {
+        "message": "Cacher le bouton Supprimer sur le lecteur YouTube"
+    },
+    "showDeleteButton": {
+        "message": "Montrer le bouton Supprimer sur le lecteur YouTube"
+    },
+    "whatDeleteButton": {
+        "message": "Il s'agit du bouton qui permet de supprimer tous les segments commerciaux depuis le lecteur YouTube."
+    },
+    "showNotice": {
+        "message": "Afficher la notification"
+    },
+    "website": {
+        "message": "Site web",
+        "description": "Used on Firefox Store Page"
+    },
+    "sourceCode": {
+        "message": "Code source",
+        "description": "Used on Firefox Store Page"
+    },
+    "noticeUpdate": {
+        "message": "La notification a été mise à jour !",
+        "description": "The first line of the message displayed after the notice was upgraded."
+    },
+    "noticeUpdate2": {
+        "message": "Si elle ne vous plaît pas, cliquez sur le bouton \"Ne plus montrer\".",
+        "description": "The second line of the message displayed after the notice was upgraded."
+    },
+    "setSubmitKeybind": {
+        "message": "Changer le raccourci pour soumettre les segments"
+    },
+    "keybindDescription": {
+        "message": "Appuyez sur une touche"
+    },
+    "keybindDescriptionComplete": {
+        "message": "Le raccourci choisi est : "
+    },
+    "0": {
+        "message": "Délai de connexion dépassé. Vérifiez votre connexion internet. Si votre connexion internet fonctionne, le serveur est probablement surchargé ou hors service."
+    },
+    "disableSkipping": {
+        "message": "Désactiver SponsorBlock"
+    },
+    "enableSkipping": {
+        "message": "Activer SponsorBlock"
+    },
+    "yourWork": {
+        "message": "Votre travail",
+        "description": "Used to describe the section that will show you the statistics from your submissions."
+    },
+    "502": {
+        "message": "Le serveur semble être surchargé. Réessayez dans quelques secondes."
+    },
+    "errorCode": {
+        "message": "Code d'erreur : "
+    },
+    "skip": {
+        "message": "Passer"
+    },
+    "skipped": {
+        "message": "Passé"
+    },
+    "disableAutoSkip": {
+        "message": "Désactiver le passage automatique"
+    },
+    "enableAutoSkip": {
+        "message": "Activer le passage automatique"
+    },
+    "audioNotification": {
+        "message": "Notification audio lors du passage"
+    },
+    "showTimeWithSkips": {
+        "message": "Afficher le temps avec les passages supprimés"
+    },
+    "showTimeWithSkipsDescription": {
+        "message": "Ce temps apparaît entre crochets à côté du temps actuel sous la barre de défilement. Cela indique la durée totale de la vidéo après déduction de tout les segments. Ceci comprend les segments marqués comme étant uniquement à \"Afficher dans la barre de recherche\"."
+    },
+    "youHaveSkipped": {
+        "message": "Vous avez passé "
+    },
+    "youHaveSaved": {
+        "message": "Vous vous êtes économisé "
+    },
+    "minLower": {
+        "message": "minute"
+    },
+    "minsLower": {
+        "message": "minutes"
+    },
+    "hourLower": {
+        "message": "heure"
+    },
+    "hoursLower": {
+        "message": "heures"
+    },
+    "youHaveSavedTime": {
+        "message": "Vous avez économisé"
+    },
+    "youHaveSavedTimeEnd": {
+        "message": " aux autres."
+    },
+    "statusReminder": {
+        "message": "Vérifiez status.sponsor.ajay.app pour le status du serveur."
+    },
+    "changeUserID": {
+        "message": "Importer/Exporter Votre ID d'Utilisateur"
+    },
+    "whatChangeUserID": {
+        "message": "Gardez ça privé. C'est comme un mot de passe et ne devrait pas être partagé avec quiconque. Si quelqu'un l'obtiens, il peut vous usurper."
+    },
+    "setUserID": {
+        "message": "Définir \"UserID\""
+    },
+    "userIDChangeWarning": {
+        "message": "Avertissement : La modification de \"UserID\" est permanente. Êtes-vous sûr de vouloir faire ça ? Assurez-vous de sauvegarder votre ancien au cas où."
+    },
+    "createdBy": {
+        "message": "Créé par"
+    },
+    "autoSkip": {
+        "message": "Passage automatique"
+    },
+    "showSkipNotice": {
+        "message": "Notifier après qu'un segment ait été sauté"
+    },
+    "keybindCurrentlySet": {
+        "message": ". Il est actuellement réglé sur :"
+    },
+    "supportInvidious": {
+        "message": "Supporter Invidious"
+    },
+    "supportInvidiousDescription": {
+        "message": "Invidious (invidio.us) est un client tiers pour YouTube. Vous devez accepter des permissions supplémentaires pour activer son support. Cette fonctionnalité ne fonctionne pas en mode incognito sur Chrome et les autres variantes de Chromium."
+    },
+    "optionsInfo": {
+        "message": "Activer Invidious, désactiver le passage automatique, masquer les boutons et plus encore."
+    },
+    "addInvidiousInstance": {
+        "message": "Ajouter une instance Invidious"
+    },
+    "addInvidiousInstanceDescription": {
+        "message": "Ajouter une instance Invidious personnalisée. Doit être formaté avec SEULEMENT le domaine. Exemple: invidious.ajay.app"
+    },
+    "add": {
+        "message": "Ajouter"
+    },
+    "addInvidiousInstanceError": {
+        "message": "Ce domaine n'est pas valide. Il devrait JUSTE inclure le domaine. Exemple: invidious.ajay.app"
+    },
+    "resetInvidiousInstance": {
+        "message": "Réinitialiser la liste d'instances Invidious"
+    },
+    "resetInvidiousInstanceAlert": {
+        "message": "Vous êtes sur le point de réinitialiser la liste des instances Invidious"
+    },
+    "currentInstances": {
+        "message": "Instances actuelles:"
+    },
+    "minDuration": {
+        "message": "Durée minimale (en secondes):"
+    },
+    "shortCheck": {
+        "message": "Le segment suivant est plus court que votre option de durée minimale. Cela pourrait signifier qu'il est déjà soumis, et just ignoré par cette option. Êtes-vous sûr de vouloir soumettre ?"
+    },
+    "showUploadButton": {
+        "message": "Afficher le bouton de téléchargement"
+    },
+    "whatUploadButton": {
+        "message": "Ce bouton apparaît sur le lecteur YouTube dès qu'un segment est prêt à être envoyé."
+    },
+    "customServerAddress": {
+        "message": "Adresse du serveur SponsorBlock"
+    },
+    "customServerAddressDescription": {
+        "message": "L'adresse que SponsorBlock utilise pour faire des appels au serveur.\nSauf si vous avez votre propre instance de serveur, cela ne devrait pas être changé."
+    },
+    "save": {
+        "message": "Sauvegarder"
+    },
+    "reset": {
+        "message": "Réinitialiser"
+    },
+    "customAddressError": {
+        "message": "Le format de l'adresse est incorrect. Assurez-vous qu'elle commence bien par http:// ou https:// et ne termine pas par un slash."
+    },
+    "areYouSureReset": {
+        "message": "Voulez-vous vraiment remettre à zéro ?"
+    },
+    "unlistedCheck": {
+        "message": "Ignorer les vidéos non listées"
+    },
+    "mobileUpdateInfo": {
+        "message": "m.youtube.com est maintenant pris en charge"
+    },
+    "exportOptions": {
+        "message": "Importer/Exporter toutes les options"
+    },
+    "whatExportOptions": {
+        "message": "C'est votre configuration complète au format JSON. Elle inclut votre identifiant utilisateur, gardez-la pour vous."
+    },
+    "setOptions": {
+        "message": "Définir les options"
+    },
+    "exportOptionsWarning": {
+        "message": "Attention : La modification des options est permanente et peut casser votre installation. Êtes-vous sûr de vouloir faire ça ? Sauvegardez les anciennes au cas où."
+    },
+    "incorrectlyFormattedOptions": {
+        "message": "Ce JSON n'est pas formaté correctement. Vos options n'ont pas été modifiées."
+    },
+    "confirmNoticeTitle": {
+        "message": "Soumettre le segment"
+    },
+    "submit": {
+        "message": "Soumettre"
+    },
+    "cancel": {
+        "message": "Annuler"
+    },
+    "delete": {
+        "message": "Supprimer"
+    },
+    "preview": {
+        "message": "Aperçu"
+    },
+    "edit": {
+        "message": "Éditer"
+    },
+    "copyDebugInformation": {
+        "message": "Copier les informations de débogage dans le presse-papiers"
+    },
+    "copyDebugInformationFailed": {
+        "message": "Impossible de copier dans le presse-papiers"
+    },
+    "copyDebugInformationOptions": {
+        "message": "Copie les informations dans le presse-papiers pour les fournir aux développeurs lors d'un rapport de bug ou lorsqu'un développeur le demande. Les informations sensibles telles que l'ID d'utilisateur, les chaînes sur liste blanche ou l'adresse du serveur personnalisé ont été supprimées. Cependant, ça contient des informations telles que votre user-agent, votre navigateur, votre système d'exploitation et le numéro de version d'extension. "
+    },
+    "copyDebugInformationComplete": {
+        "message": "Les informations de débogage ont été copiées dans le presse-papiers. N'hésitez pas à supprimer toute information que vous ne préférez pas partager. Enregistrez-les dans un fichier texte ou collez-les dans le rapport de bug."
+    },
+    "theKey": {
+        "message": "La clé"
+    },
+    "keyAlreadyUsed": {
+        "message": "est lié à une autre action. Veuillez sélectionner une autre clé."
+    },
+    "to": {
+        "message": "à",
+        "description": "Used between segments. Example: 1:20 to 1:30"
+    },
+    "category_sponsor": {
+        "message": "Message commercial"
+    },
+    "category_sponsor_description": {
+        "message": "Promotion rémunérée, parrainage rémunéré et publicité directe. Pas pour l'autopromotion ou les présentations gratuites de causes, de créateurs, de sites web ou de produits qu'ils aiment."
+    },
+    "category_intro": {
+        "message": "Entracte/Animation d'intro"
+    },
+    "category_intro_short": {
+        "message": "Entracte"
+    },
+    "category_outro": {
+        "message": "Générique de fin"
+    },
+    "category_interaction": {
+        "message": "Rappel d'interaction (abonnement)"
+    },
+    "category_interaction_description": {
+        "message": "Lorsqu'il y a un bref rappel pour liker, s'abonner ou les follow parmi le contenu. Si le message est long ou porte sur quelque chose de spécifique, cela devrait plutôt être classé comme une autopromotion."
+    },
+    "category_interaction_short": {
+        "message": "Rappel d'interaction"
+    },
+    "category_selfpromo": {
+        "message": "Non rémunéré/autopromotion"
+    },
+    "category_selfpromo_description": {
+        "message": "Semblable au \"sponsor\", excepté pour la promotion non rémunérée ou l'auto-promotion. Cela inclut les marchandises, les dons et les informations sur leurs collaborateurs."
+    },
+    "category_music_offtopic": {
+        "message": "Musique : Segment non-musicale"
+    },
+    "category_music_offtopic_description": {
+        "message": "A utiliser uniquement dans les vidéos musicales. Cela inclut les introductions ou les fins dans les vidéos."
+    },
+    "category_music_offtopic_short": {
+        "message": "Hors musique"
+    },
+    "category_livestream_messages": {
+        "message": "Stream : lecture de dons et messages"
+    },
+    "category_livestream_messages_short": {
+        "message": "Lecture de messages"
+    },
+    "disable": {
+        "message": "Désactiver"
+    },
+    "manualSkip": {
+        "message": "Passer manuellement"
+    },
+    "showOverlay": {
+        "message": "Afficher dans la barre de progression"
+    },
+    "colorFormatIncorrect": {
+        "message": "Votre couleur est mal formatée. Il devrait s'agir d'un code hexadécimal à 3 ou 6 chiffres avec un signe numérique au début."
+    },
+    "previewColor": {
+        "message": "Couleur en mode aperçu",
+        "description": "Referring to submissions that have not been sent to the server yet."
+    },
+    "seekBarColor": {
+        "message": "Couleur dans la barre de progression"
+    },
+    "category": {
+        "message": "Catégorie"
+    },
+    "skipOption": {
+        "message": "Option de saut",
+        "description": "Used on the options page to describe the ways to skip the segment (auto skip, manual, etc.)"
+    },
+    "enableTestingServer": {
+        "message": "Activer le serveur de test bêta"
+    },
+    "whatEnableTestingServer": {
+        "message": "Vos soumissions et votes NE COMPTERONT PAS sur le serveur principal. Utilisez ceci uniquement pour faire des tests."
+    },
+    "testingServerWarning": {
+        "message": "AUCUNE SOUMISSION OU VOTE DE COMPTERA sur le serveur principal tant que vous serez connecté au serveur de test. Désactivez ceci quand vous voudrez réellement soumettre ou voter."
+    },
+    "bracketNow": {
+        "message": "(Maintenant)"
+    },
+    "moreCategories": {
+        "message": "Autres catégories"
+    },
+    "chooseACategory": {
+        "message": "Choisissez une catégorie"
+    },
+    "youMustSelectACategory": {
+        "message": "Vous devez sélectionner une catégorie pour tous les segments que vous soumettez !"
+    },
+    "bracketEnd": {
+        "message": "(Fin)"
+    },
+    "hiddenDueToDownvote": {
+        "message": "masqué : vote négatif"
+    },
+    "hiddenDueToDuration": {
+        "message": "masqué : trop court"
+    },
+    "channelDataNotFound": {
+        "message": "L'ID de la chaîne n'a pas encore été chargé."
+    },
+    "adblockerIssue": {
+        "message": "Il semble que quelque chose empêche SponsorBlock de récupérer les données de la vidéo. C'est probablement votre bloqueur de publicités. Veuillez consulter https://github.com/ajayyy/SponsorBlock/wiki/Fix-Ad-Blocker-Blocking-SponsorBlock's-Requests"
+    },
+    "itCouldBeAdblockerIssue": {
+        "message": "Si ça se reproduit, c'est peut-être causé par votre bloqueur de publicités. Veuillez consulter https://github.com/ajayyy/SponsorBlock/wiki/Fix-Ad-Blocker-Blocking-SponsorBlock's-Requests"
+    },
+    "forceChannelCheck": {
+        "message": "Forcer la vérification du canal avant de passer"
+    },
+    "downvoteDescription": {
+        "message": "Segment de mauvaise qualité"
+    },
+    "incorrectCategory": {
+        "message": "Mauvaise catégorie"
+    },
+    "multipleSegments": {
+        "message": "Plusieurs segments"
+    },
+    "guidelines": {
+        "message": "Instructions"
+    },
+    "readTheGuidelines": {
+        "message": "Lisez les instructions !!",
+        "description": "Show the first time they submit or if they are \"high risk\""
+    },
+    "categoryUpdate1": {
+        "message": "Les catégories sont là !"
+    },
+    "categoryUpdate2": {
+        "message": "Ouvrir les options pour sauter les intros, outros, marchandises, etc."
+    },
+    "unsubmittedWarning": {
+        "message": "Notification de segments non soumis"
+    },
+    "unsubmittedWarningDescription": {
+        "message": "Envoyer une notification lorsque vous quittez une vidéo avec des segments qui ne sont pas téléversés"
+    }
+}

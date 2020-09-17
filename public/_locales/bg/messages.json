@@ -1,0 +1,182 @@
+{
+    "fullName": {
+        "message": "SponsorBlock за YouTube - пропускай спонсорства",
+        "description": "Name of the extension."
+    },
+    "Description": {
+        "message": "Прескачайте спонсорства, напомняния за абониране, и други неща в YouTube клипове.",
+        "description": "Description of the extension."
+    },
+    "400": {
+        "message": "Сървърът каза, че тази заявка е невалидна"
+    },
+    "429": {
+        "message": "Подали сте прекалено много спонсорства за едно видео, сигурни ли сте, че има толкова много?"
+    },
+    "409": {
+        "message": "Това спонсорство вече е подадено"
+    },
+    "channelWhitelisted": {
+        "message": "Каналът е добавен към Whitelist!"
+    },
+    "Segment": {
+        "message": "сегмент"
+    },
+    "Segments": {
+        "message": "сегменти"
+    },
+    "reportButtonTitle": {
+        "message": "Докладвай"
+    },
+    "Dismiss": {
+        "message": "Отхвърли"
+    },
+    "Loading": {
+        "message": "Зареждане..."
+    },
+    "Mins": {
+        "message": "Минути"
+    },
+    "Secs": {
+        "message": "Секунди"
+    },
+    "Hide": {
+        "message": "Никога не показвай"
+    },
+    "hitGoBack": {
+        "message": "Натиснете \"върни\" за да се върнете където бяхте."
+    },
+    "unskip": {
+        "message": "Върни"
+    },
+    "reskip": {
+        "message": "Пропусни отново"
+    },
+    "paused": {
+        "message": "На пауза"
+    },
+    "confirmMSG": {
+        "message": "За да редактирате или изтриете някои стойности, натиснете на \"инфо\" бутона или отворете изкачащият прозорец на добавката чрез кликване на иконата на добавката в горният ляв ъгъл."
+    },
+    "clearThis": {
+        "message": "Сигурни ли сте, че искате да изчистите това?\n\n"
+    },
+    "Unknown": {
+        "message": "Възникна грешка при подаването на Вашите спонсорски времена, моля опитайте отново по-късно."
+    },
+    "sponsorStart": {
+        "message": "Сегментът Започва Сега"
+    },
+    "sponsorEnd": {
+        "message": "Сегментът Свършва Сега"
+    },
+    "noVideoID": {
+        "message": "Не е намерено YouTube видео в този раздел. Ако сте сигурни, че това е YouTube раздел, затворете този изскачащ прозорец и го отворете отново. Ако това не проработи, опитайте се да презаредите раздела."
+    },
+    "success": {
+        "message": "Успешно!"
+    },
+    "voted": {
+        "message": "Гласувано!"
+    },
+    "serverDown": {
+        "message": "Изглежда, че сървърът не работи. Свържете се с програмиста незабавно."
+    },
+    "connectionError": {
+        "message": "Възникна грешка с връзката. Код на грешката: "
+    },
+    "openPopup": {
+        "message": "Отворете изскачащия прозорец на SponsorBlock"
+    },
+    "submitCheck": {
+        "message": "Сигурни ли сте, че искате да подадете това?"
+    },
+    "whitelistChannel": {
+        "message": "Добавяне на канала към Whitelist"
+    },
+    "removeFromWhitelist": {
+        "message": "Премахване на канала от Whitelist"
+    },
+    "savedPeopleFrom": {
+        "message": "Вие сте помогнали на хора да пропуснат "
+    },
+    "viewLeaderboard": {
+        "message": "Вижте leaderboard-а"
+    },
+    "here": {
+        "message": "тук"
+    },
+    "discordAdvert": {
+        "message": "Елате в официалния Discord сървър за да давате предложения!"
+    },
+    "hideThis": {
+        "message": "Скрий това"
+    },
+    "Options": {
+        "message": "Настройки"
+    },
+    "showButtons": {
+        "message": "Показване на бутоните в YouTube Player-а"
+    },
+    "hideButtons": {
+        "message": "Скриване на бутоните в YouTube Player-а"
+    },
+    "to": {
+        "message": "до",
+        "description": "Used between segments. Example: 1:20 to 1:30"
+    },
+    "category_sponsor": {
+        "message": "Спонсорство"
+    },
+    "category_interaction_description": {
+        "message": "Когато има кратко напомняне да харесате, да се абонирате или да последвате канала по средата на съдържанието. Ако е дълго или заради нещо специфично, трябва да е под \"само-реклама\"."
+    },
+    "category_selfpromo": {
+        "message": "Неплатена/Само-реклама"
+    },
+    "category_selfpromo_description": {
+        "message": "Подобно на \"спонсорство\", но е неплатено. Това включва merchandise, дарения или информация с кого каналът има сътрудничество."
+    },
+    "category_music_offtopic": {
+        "message": "Музика: Част без музика"
+    },
+    "category_music_offtopic_description": {
+        "message": "Само да се използва в музикални клипове. Това включва интрота и outro-та в музикални клипове."
+    },
+    "category_livestream_messages": {
+        "message": "Поточно предаване: Четене на съобщения/дарения"
+    },
+    "category_livestream_messages_short": {
+        "message": "Четене на съобщения"
+    },
+    "disable": {
+        "message": "Забрани"
+    },
+    "manualSkip": {
+        "message": "Ръчно Прескачане"
+    },
+    "showOverlay": {
+        "message": "Показване в seek лентата"
+    },
+    "colorFormatIncorrect": {
+        "message": "Вашият цвят не е форматиран правилно. Трябва да бъде 3- или 6-цифрен hex код с \"#\" в началото."
+    },
+    "category": {
+        "message": "Категория"
+    },
+    "downvoteDescription": {
+        "message": "Грешно/Неправилно Време"
+    },
+    "incorrectCategory": {
+        "message": "Грешна Категория"
+    },
+    "multipleSegments": {
+        "message": "Няколко Сегмента"
+    },
+    "guidelines": {
+        "message": "Правила"
+    },
+    "categoryUpdate1": {
+        "message": "Категориите са тук!"
+    }
+}
