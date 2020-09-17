@@ -3,6 +3,10 @@
         "message": "SponsorBlock cho Youtube - Bỏ qua quảng cáo của nhà tài trợ",
         "description": "Name of the extension."
     },
+    "Name": {
+        "message": "SponsorBlock cho Youtube",
+        "description": "Name of the extension."
+    },
     "Description": {
         "message": "Bỏ qua quảng cáo của nhà tài trợ, đoạn nài nỉ đòi đăng ký và nhiều thứ tương tự trong các video trên Youtube.",
         "description": "Description of the extension."

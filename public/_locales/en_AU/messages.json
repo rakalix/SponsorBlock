@@ -3,6 +3,10 @@
         "message": "SponsorBlock for YouTube - Skip Sponsorships",
         "description": "Name of the extension."
     },
+    "Name": {
+        "message": "SponsorBlock for YouTube",
+        "description": "Name of the extension."
+    },
     "Description": {
         "message": "Skip sponsorships, subscription begging and more on YouTube videos. Report sponsors on videos you watch to save time",
         "description": "Description of the extension."

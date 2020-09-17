@@ -3,6 +3,10 @@
         "message": "SponsorBlock za YouTube - preskoči sponzore",
         "description": "Name of the extension."
     },
+    "Name": {
+        "message": "SponsorBlock za YouTube",
+        "description": "Name of the extension."
+    },
     "Description": {
         "message": "Preskoči sponzore, zamolbe za pretplatu i drugo na YouTube videima.",
         "description": "Description of the extension."

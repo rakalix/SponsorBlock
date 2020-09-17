@@ -3,6 +3,10 @@
         "message": "SponsorBlock untuk YouTube - Lewati Sponsor",
         "description": "Name of the extension."
     },
+    "Name": {
+        "message": "SponsorBlock untuk YouTube",
+        "description": "Name of the extension."
+    },
     "Description": {
         "message": "Lewati sponsor, meminta subscriber dan lain-lain di video YouTube.",
         "description": "Description of the extension."

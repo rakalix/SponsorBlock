@@ -3,6 +3,10 @@
         "message": "SponsorBlock voor YouTube - Sponsorberichten overslaan",
         "description": "Name of the extension."
     },
+    "Name": {
+        "message": "SponsorBlock voor YouTube",
+        "description": "Name of the extension."
+    },
     "Description": {
         "message": "Overslaan van sponsoring, abonneer-herinneringen en meer in YouTube-video's.",
         "description": "Description of the extension."

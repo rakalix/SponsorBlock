@@ -3,6 +3,10 @@
         "message": "SponsorBlock YouTubelle - Ohita sponsoroinnit",
         "description": "Name of the extension."
     },
+    "Name": {
+        "message": "SponsorBlock YouTubelle",
+        "description": "Name of the extension."
+    },
     "Description": {
         "message": "Ohita sponsoroitu mainonta, tilausten kerjääminen ja muuta YouTube-videoissa.",
         "description": "Description of the extension."

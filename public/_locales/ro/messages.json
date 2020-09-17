@@ -3,6 +3,10 @@
         "message": "SponsorBlock pentru YouTube - Sari peste sponsorizări",
         "description": "Name of the extension."
     },
+    "Name": {
+        "message": "SponsorBlock pentru YouTube",
+        "description": "Name of the extension."
+    },
     "Description": {
         "message": "Treci peste sponsorizări, cereri de abonare și multe altele pe videoclipuri de pe YouTube.",
         "description": "Description of the extension."

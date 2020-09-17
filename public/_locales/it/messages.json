@@ -3,6 +3,10 @@
         "message": "SponsorBlock per YouTube - Salta gli sponsor",
         "description": "Name of the extension."
     },
+    "Name": {
+        "message": "SponsorBlock per YouTube",
+        "description": "Name of the extension."
+    },
     "Description": {
         "message": "Salta sponsorizzazioni, implorazioni di iscrizione ai canali e molto altro sui video di YouTube.",
         "description": "Description of the extension."

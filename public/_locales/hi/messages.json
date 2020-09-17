@@ -3,6 +3,10 @@
         "message": "YouTube के लिए SponsorBlock - प्रायोजन छोड़ें",
         "description": "Name of the extension."
     },
+    "Name": {
+        "message": "YouTube के लिए SponsorBlock - प्रायोजन",
+        "description": "Name of the extension."
+    },
     "Description": {
         "message": "YouTube वीडियो पर प्रायोजन, सदस्यता भीख और अधिक छोड़ें। दूसरों के समय को बचाने के लिए आपके द्वारा देखे जाने वाल",
         "description": "Description of the extension."

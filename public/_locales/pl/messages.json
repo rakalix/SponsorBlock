@@ -3,6 +3,10 @@
         "message": "SponsorBlock na YouTube - Pomiń fragmenty sponsorowane",
         "description": "Name of the extension."
     },
+    "Name": {
+        "message": "SponsorBlock na YouTube",
+        "description": "Name of the extension."
+    },
     "Description": {
         "message": "Pomijaj sponsorów, prośby o subskrypcje i inne fragmenty filmów na YouTube.",
         "description": "Description of the extension."

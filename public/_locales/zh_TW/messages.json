@@ -3,6 +3,10 @@
         "message": "SponsorBlock for YouTube - 跳過贊助廣告",
         "description": "Name of the extension."
     },
+    "Name": {
+        "message": "SponsorBlock for YouTube",
+        "description": "Name of the extension."
+    },
     "Description": {
         "message": "在YouTube影片跳過贊助廣告、訂閱提醒……和更多。 在您觀賞的影片上標記贊助廣告來節省大家的時間。",
         "description": "Description of the extension."

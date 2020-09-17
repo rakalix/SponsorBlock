@@ -3,6 +3,10 @@
         "message": "SponsorBlock за YouTube - пропускай спонсорства",
         "description": "Name of the extension."
     },
+    "Name": {
+        "message": "SponsorBlock за YouTube",
+        "description": "Name of the extension."
+    },
     "Description": {
         "message": "Прескачайте спонсорства, напомняния за абониране, и други неща в YouTube клипове.",
         "description": "Description of the extension."

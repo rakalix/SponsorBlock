@@ -3,6 +3,10 @@
         "message": "SponsorBlock pour YouTube - Supprime les messages commerciaux et publicités intégrées",
         "description": "Name of the extension."
     },
+    "Name": {
+        "message": "SponsorBlock pour YouTube",
+        "description": "Name of the extension."
+    },
     "Description": {
         "message": "Ignorez les sponsors, les rappels d'interaction et plus encore sur les vidéos YouTube.",
         "description": "Description of the extension."

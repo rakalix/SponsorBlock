@@ -3,6 +3,10 @@
         "message": "YouTube용 SponsorBlock - 스폰서 광고 차단",
         "description": "Name of the extension."
     },
+    "Name": {
+        "message": "YouTube용 SponsorBlock",
+        "description": "Name of the extension."
+    },
     "Description": {
         "message": "YouTube 영상의 스폰서 광고, '구독과 좋아요' 광고 같이 쓸데없는 광고를 모두 건너뛰세요.",
         "description": "Description of the extension."

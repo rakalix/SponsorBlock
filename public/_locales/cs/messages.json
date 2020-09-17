@@ -3,6 +3,10 @@
         "message": "SponsorBlock pro YouTube - Přeskoč Sponzorství",
         "description": "Name of the extension."
     },
+    "Name": {
+        "message": "SponsorBlock pro YouTube",
+        "description": "Name of the extension."
+    },
     "Description": {
         "message": "Přeskoč sponzorství, žadonění o odběr a další v YouTube videích.",
         "description": "Description of the extension."

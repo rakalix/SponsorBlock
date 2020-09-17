@@ -3,6 +3,10 @@
         "message": "YouTube க்கான ஸ்பான்சர் பிளாக் - ஸ்பான்சர்ஷிப்களைத் தவிர்",
         "description": "Name of the extension."
     },
+    "Name": {
+        "message": "YouTube க்கான ஸ்பான்சர் பிளாக்",
+        "description": "Name of the extension."
+    },
     "Description": {
         "message": "YouTube வீடியோக்களில் ஸ்பான்சர்ஷிப்கள், சந்தா பிச்சை மற்றும் பலவற்றைத் தவிர்க்கவும்.",
         "description": "Description of the extension."
