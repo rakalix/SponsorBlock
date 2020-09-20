@@ -21,7 +21,8 @@
   <b>Unofficial Ports:</b>
   <a href="https://github.com/ajayyy/SponsorBlock/wiki/Unofficial-Ports#mpv-media-player">MPV</a> |
   <a href="https://github.com/ajayyy/SponsorBlock/wiki/Unofficial-Ports#kodi">Kodi</a> |
-  <a href="https://github.com/ajayyy/SponsorBlock/wiki/Unofficial-Ports#ios">iOS</a>
+  <a href="https://github.com/ajayyy/SponsorBlock/wiki/Unofficial-Ports#ios">iOS</a> |
+  <a href="https://apps.apple.com/us/app/sponsorblock-port-for-youtube/id1532163541">Safari (MacOS)</a>
 </p>
 
 <p align="center">
