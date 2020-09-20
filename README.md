@@ -50,6 +50,10 @@ See the [Wiki](https://github.com/ajayyy/SponsorBlock/wiki) for important links.
 
 <b>Donate with PayPal:</b>   [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HTXQKVQJ3VZQY)
 
+<b>Donate with <img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Bitcoin_logo.svg" width="153" height="32"><br>bc1q46esknq8n9yrqms92973nc8u9ds4nm4nuvt85v</b>
+
+<b>Donate with <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Monero-Logo.svg" width="141" height="37"><br>8AZJ9NsYVfVE6uGc3irxHmTDGq93FoTDnFjvoaG43dzbR9k2LgwJ7MSWHngdZLEGhrCkLy5KXAShugaFzsQ77JQb6bJyrCR</b>
+
 # Server
 
 The backend server code is available here: https://github.com/ajayyy/SponsorBlockServer
