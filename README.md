@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">SponsorBlock for Safari (MacOS)</h1>
-<p align="center"><a href="https://apps.apple.com/au/app/sponsorblock-port-for-youtube/id1532163541)"><img src="https://raw.githubusercontent.com/rakalix/SponsorBlock/master/public/Download_on_the_Mac_App_Store_Badge_US-UK_RGB_blk_092917.svg"></a> </p>
+<p align="center"><a href="https://apps.apple.com/au/app/sponsorblock-port-for-youtube/id1532163541"><img src="https://raw.githubusercontent.com/rakalix/SponsorBlock/master/public/Download_on_the_Mac_App_Store_Badge_US-UK_RGB_blk_092917.svg"></a> </p>
 
 <p align="center">
   <b>Download:</b>
