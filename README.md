@@ -48,7 +48,7 @@ See the [Wiki](https://github.com/ajayyy/SponsorBlock/wiki) for important links.
 
 # Donate to cover Apple's US$99 developer fees
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HTXQKVQJ3VZQY)
+Donate: [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HTXQKVQJ3VZQY)
 
 # Server
 
