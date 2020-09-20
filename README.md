@@ -44,6 +44,10 @@ It also supports Invidio.us.
 
 See the [Wiki](https://github.com/ajayyy/SponsorBlock/wiki) for important links.
 
+# Donate
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HTXQKVQJ3VZQY)
+
 # Server
 
 The backend server code is available here: https://github.com/ajayyy/SponsorBlockServer
