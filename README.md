@@ -5,8 +5,7 @@
   <sub>Logo by <a href="https://github.com/munadikieh">@munadikieh</a></sub>
 </p>
 
-<h1 align="center">SponsorBlock</h1>
-
+<h1 align="center">SponsorBlock for Safari (MacOS) <a href="https://apps.apple.com/au/app/sponsorblock-port-for-youtube/id1532163541)"><img src="https://raw.githubusercontent.com/rakalix/SponsorBlock/master/public/Download_on_the_Mac_App_Store_Badge_US-UK_RGB_blk_092917.svg"></a> </h1>
 <p align="center">
   <b>Download:</b>
   <a href="https://chrome.google.com/webstore/detail/mnjggcdmjocbbbhaepdhchncahnbgone">Chrome/Chromium</a> |
@@ -45,7 +44,7 @@ It also supports Invidio.us.
 
 See the [Wiki](https://github.com/ajayyy/SponsorBlock/wiki) for important links.
 
-# Donate
+# Donate to cover Apple's US$99 developer fees
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HTXQKVQJ3VZQY)
 
